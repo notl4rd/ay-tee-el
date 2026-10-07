@@ -52,10 +52,10 @@
 
 | Guide | Description |
 | --- | --- |
-| [Command reference](commands.md) | Every command, grouped by category (100+ commands) |
-| [Features](features.md) | Deep dives: modmail, sticky, tickets, economy, feeds, anti-nuke… |
-| [Premium](premium.md) | Plans, premium features, redemption and billing FAQ |
-| [FAQ & troubleshooting](faq.md) | Common questions and fixes |
+| [Command reference](docs/commands.md) | Every command, grouped by category (100+ commands) |
+| [Features](docs/features.md) | Deep dives: modmail, sticky, tickets, economy, feeds, anti-nuke… |
+| [Premium](docs/premium.md) | Plans, premium features, redemption and billing FAQ |
+| [FAQ & troubleshooting](docs/faq.md) | Common questions and fixes |
 
 ## Key features
 
@@ -89,7 +89,7 @@ Activate with `/redeem code:<code>` or buy directly from the [dashboard](https:/
 | 🌐 Website / Dashboard | [https://ayteeel.cfd](https://ayteeel.cfd) |
 | ✉️ Invite | [Add to your server](https://discord.com/api/oauth2/authorize?client_id=1096149126888050809&permissions=8&scope=bot%20applications.commands) |
 | 💬 Support server | [discord.gg/EEHuxXM97H](https://discord.gg/EEHuxXM97H) |
-| 📖 Command reference | [commands.md](commands.md) |
+| 📖 Command reference | [docs/commands.md](docs/commands.md) |
 | 🛡️ Privacy · Terms · License | [ayteeel.cfd/privacy](https://ayteeel.cfd/privacy) · [ayteeel.cfd/terms](https://ayteeel.cfd/terms) · [ayteeel.cfd/license](https://ayteeel.cfd/license) |
 
 ## FAQ
@@ -118,7 +118,7 @@ Make sure **Message Content Intent** is enabled for the bot in your server (Serv
 Join the [support server](https://discord.gg/EEHuxXM97H) and open a ticket, or use the dashboard's support chat.
 </details>
 
-More answers: [faq.md](faq.md)
+More answers: [docs/faq.md](docs/faq.md)
 
 ## License
 
