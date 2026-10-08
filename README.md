@@ -36,7 +36,7 @@
 *ay tee el* is an all-in-one Discord bot built for communities that want one tool instead of ten:
 
 - **Slash commands + prefix commands** — every command works as `/command` or `!command` (configurable prefix).
-- **Multi-language** — 16 interface languages (EN, TR, DE, FR, ES, PT, RU, PL, NL, IT-adjacent locales, JA, KO, ZH, AR, LV, LT, ET…). Per-server *and* per-user language settings.
+- **Multi-language** — 16 interface languages (EN, TR, DE, FR, ES, PT, RU, PL, NL, JA, KO, ZH, AR, LV, LT, ET). Per-server *and* per-user language settings.
 - **Web dashboard** — configure everything from [ayteeel.cfd](https://ayteeel.cfd): plugins, permissions, logs, feeds and Premium.
 - **Optional MongoDB Atlas storage** — runs with cloud persistence, with a local file fallback mode.
 
@@ -70,7 +70,7 @@
 | **Utility** | Reminders, highlights, translate, weather, birthdays, polls, suggestions, AFK, invites tracking, userinfo/serverinfo |
 | **Engagement** | Welcome/leave cards (image, Premium), reaction roles, role menus, giveaways, invite rewards, register (gender) system |
 | **Automation** | Sticky messages, RSS/Atom/Twitch/YouTube feeds, timed roles, auto-logs, autorole, custom commands |
-| **AI** | AI chat with personalities (friendly, savage, professional, genz), `/summarize` chat summaries (Premium) |
+| **AI** | AI chat with personalities (friendly, savage, professional, gen-z), `/summarize` chat summaries (Premium) |
 | **Dashboard** | Full web control panel, command permission editor, blog and docs site |
 
 ## Premium
@@ -125,7 +125,7 @@ More answers: [docs/faq.md](docs/faq.md)
 Documentation in this repository is provided for reference only.
 
 ```
-Copyright © 2026 - Atlantis Studios
+Copyright © - Atlantis Studios
 ```
 
 The *ay tee el* bot software, name, logo and branding are proprietary. You may read and link to this documentation, but you may **not** redistribute it as your own, and no rights to the bot's source code are granted by this repository.
