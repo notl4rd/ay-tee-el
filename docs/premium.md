@@ -80,11 +80,3 @@ Contact support before the next billing period; see [terms](https://ayteeel.cfd/
 
 ---
 
-## Premium management (bot owner)
-
-| Command | Action |
-| --- | --- |
-| `/premium action:generate` | Create a redeem code (custom code, max uses, expiry, duration) |
-| `/premium action:listcodes` | List active codes |
-| `/premium action:grant` / `revoke` | Grant or revoke Premium for a guild ID |
-| `/premium action:check` | Check a guild's Premium status |
