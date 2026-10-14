@@ -11,7 +11,6 @@ Premium unlocks *ay tee el*'s advanced systems. Everything else stays free forev
 | **Price** | **$1.99** / month | **$19.99** / year |
 | **Effective cost** | $1.99/month | $1.66/month |
 | **Billing** | Recurring, cancel anytime | One payment for 12 months |
-| **Badge** | — | "Most Popular" |
 
 Payments are handled by our payment partner. After checkout you receive a confirmation email — subscription management and cancellation links are in that email.
 
@@ -55,7 +54,7 @@ Payments are handled by our payment partner. After checkout you receive a confir
 /redeem code:<your-code>
 ```
 
-Codes are issued on purchase or by the bot owner.
+Codes are issued by the bot owner.
 
 **If your purchase doesn't appear:** join the [support server](https://discord.gg/EEHuxXM97H) and contact the bot owner with your proof of purchase.
 
